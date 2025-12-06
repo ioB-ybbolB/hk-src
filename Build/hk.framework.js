@@ -8534,39 +8534,10 @@ function unityFramework(Module) {
         xuRdfiWtQvuod$ACZU(e, i)
     }
     function createAlert() {
-        const e = xuRdfiWtQvuod$ACZU;
-        if (document[e(394)](e(425)))
-            return;
-        const i = document[e(407)](e(379));
-        i.id = e(425),
-        i[e(384)][e(399)] = e(432),
-        i[e(384)][e(417)] = e(416),
-        i[e(384)][e(433)] = e(385),
-        i[e(384)][e(383)] = e(391),
-        i[e(384)][e(396)] = e(418),
-        i[e(384)][e(381)] = e(419),
-        i[e(384)][e(372)] = e(398),
-        i[e(384)][e(437)] = e(377),
-        i[e(384)][e(402)] = e(435),
-        i[e(384)][e(393)] = e(390),
-        i[e(384)][e(388)] = e(374),
-        i[e(384)][e(415)] = e(413),
-        i[e(384)][e(370)] = e(421),
-        i[e(384)][e(406)] = e(404),
-        i[e(384)][e(412)] = e(409),
-        i[e(436)] = e(430),
-        document[e(428)][e(434)](i);
-        const n = document[e(394)](e(378));
-        return n[e(403)] = () => n[e(384)][e(396)] = e(382),
-        n[e(400)] = () => n[e(384)][e(396)] = e(422),
-        n[e(373)] = () => i[e(384)][e(406)] = e(404),
-        window[e(386)] = i,
-        i
+
     }
     function showAlert() {
-        const e = xuRdfiWtQvuod$ACZU;
-        window[e(420)] = createAlert(),
-        window[e(420)][e(384)][e(406)] = e(376)
+
     }
     function dontShowAlert() {
 
